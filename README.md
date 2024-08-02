@@ -1,4 +1,5 @@
-Churn Analysis Summary
+CHURN ANALYSIS SUMMARY
+
 Objective:
 The objective of this churn analysis was to identify patterns and factors contributing to customer churn in a banking institution. By leveraging Power BI, I aimed to visualize and interpret the data effectively to provide actionable insights for reducing churn rates.
 
